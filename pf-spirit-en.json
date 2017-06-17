@@ -21,5 +21,10 @@
 		"TODO",
 		"DO"
 	],
-	"wiki-link-txt": "Wiki"
+	"wiki-link-txt": "Wiki",
+	"wiki-link": "url",
+	"our_project_title": "Our Project",
+	"the_sport_title": "The sport",
+	"we_are_title": "Who are we ?",
+	"support_title": "They trust us"
 }
