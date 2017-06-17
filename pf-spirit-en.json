@@ -9,7 +9,12 @@
 	"we-are-title": "Who are we ?",
 	"we-are": "We are...",
 	"support-title": "They trust us",
-	"support": "partners",
+	"support": [
+		{
+			"name": "Organisation 1",
+			"logo": "https://cdn.rawgit.com/GrouchyStacker/pf-spirit/7f207be0d45483d497662ec33c5ab8cffe3dccd1/images/bourg.jpg"
+		}
+	],
 	"social-networks": "Join us !",
 	"twitter": [
 		"TODO",
@@ -26,5 +31,9 @@
 	"our_project_title": "Our Project",
 	"the_sport_title": "The sport",
 	"we_are_title": "Who are we ?",
-	"support_title": "They trust us"
+	"support_title": [
+		"They trust us",
+		"partners",
+		"ey trust us"
+	]
 }
