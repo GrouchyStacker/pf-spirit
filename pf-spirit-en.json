@@ -11,8 +11,9 @@
 	"support-title": "They trust us",
 	"support": [
 		{
-			"name": "Organisation 1",
-			"logo": "https://cdn.rawgit.com/GrouchyStacker/pf-spirit/7f207be0d45483d497662ec33c5ab8cffe3dccd1/images/bourg.jpg"
+			"name": "Fondation MMA",
+			"logo": "https://cdn.rawgit.com/GrouchyStacker/pf-spirit/7f207be0d45483d497662ec33c5ab8cffe3dccd1/images/bourg.jpg",
+			"url": "https://www.mma.fr/a-propos/fondation-mma.html"
 		}
 	],
 	"social-networks": "Join us !",
