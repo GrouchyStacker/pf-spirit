@@ -7,13 +7,17 @@
 	"the-sport-title": "The sport",
 	"the-sport": "Introduction to Powerchair Football.",
 	"we-are-title": "Who are we ?",
-	"we-are": "<p>Au départ, nous sommes deux, l’un père d’un joueur, l’autre passionné depuis plus de 10 ans, qui avons eu cette idée un peu folle : construire notre propre fauteuil.<br>L’équipe s’est agrandie et aujourd’hui des partenaires ont rejoint l’aventure :<br>- Le lycée technique La Joliverie (Créateur du fameux « Microjoules »).<br>- L’entreprise Mecam 44 (Conception et réalisation de pièces métalliques).<br>- L’entreprise SG2C (Bureau d'études).<br>- L’entreprise de soudure Stia.<br>- L’entreprise IDL lighting (Spécialiste de l’électrotechnique).<br>- Stélia Aérospace (Spécialiste de pièce élémentaire dans l’aéronautique).</p>",
+	"we-are": "<p>Au départ, nous sommes deux, l’un père d’un joueur, l’autre passionné depuis plus de 10 ans, qui avons eu cette idée un peu folle : construire notre propre fauteuil.<br>L’équipe s’est agrandie et aujourd’hui des partenaires ont rejoint l’aventure :<br>- La Joliverie (Créateur du fameux « Microjoules »).<br>- L’entreprise Mecam 44 (Conception et réalisation de pièces métalliques).<br>- L’entreprise SG2C (Bureau d'études).<br>- L’entreprise de soudure Stia.<br>- L’entreprise IDL lighting (Spécialiste de l’électrotechnique).<br>- Stélia Aérospace (Spécialiste de pièce élémentaire dans l’aéronautique).</p>",
 	"support-title": "They trust us",
 	"support": [
 		{
 			"name": "Fondation MMA",
 			"logo": "https://cdn.rawgit.com/GrouchyStacker/pf-spirit/996e70c41ff706b5ed784f5bf8c3a4bd9ff439bc/images/Logo-Fondation-MMA1.jpg",
 			"url": "https://www.mma.fr/a-propos/fondation-mma.html"
+		},
+		{
+			"logo": "https://cdn.rawgit.com/GrouchyStacker/pf-spirit/f27ca64b2142a9b033443c1314c5ee80c8b70448/images/la-joliverie-logo-blanc.png",
+			"name": "La Joliverie"
 		}
 	],
 	"social-networks": "Join us !",
