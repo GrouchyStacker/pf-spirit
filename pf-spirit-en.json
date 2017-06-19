@@ -1,6 +1,6 @@
 {
-	"the-title": "Powerchair Football Spirit",
-	"the-catchphrase": "an open hardware project",
+	"the-title": "Powerchair football Spirit",
+	"the-catchphrase": "Un projet OpenHardware",
 	"sticky-title": "The title",
 	"our-project-title": "The project",
 	"our-project": "Presentation.",
@@ -11,9 +11,8 @@
 	"support-title": "They trust us",
 	"support": [
 		{
-			"name": "Fondation MMA",
-			"logo": "https://cdn.rawgit.com/GrouchyStacker/pf-spirit/ae4c8e01c9313250407f96b02f1d044bacffadec/images/Logo-Fondation-MMA1.jpg",
-			"url": "https://www.mma.fr/a-propos/fondation-mma.html"
+			"name": "Organisation 1",
+			"logo": "https://cdn.rawgit.com/GrouchyStacker/pf-spirit/7f207be0d45483d497662ec33c5ab8cffe3dccd1/images/bourg.jpg"
 		}
 	],
 	"social-networks": "Join us !",
