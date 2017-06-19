@@ -1,12 +1,40 @@
 {
-	"the-title": "PF Spirit",
-	"the-catchphrase": "The catchphrase",
-	"our-project-title": "Notre projet",
-	"our-project": "Presentation.",
-	"the-sport-title": "Le sport",
-	"the-sport": "Présentation du foot fauteuil.",
-	"we-are-title": "Qui sommes-nous",
-	"we-are": "We are...",
+	"the-title": "Powerchair football Spirit",
+	"the-catchphrase": "Un projet OpenHardware",
+	"sticky-title": "The title",
+	"our-project-title": "The project",
+	"our-project": "<p>Nous voulons développer un fauteuil roulant électrique de sport dédié à la pratique du foot fauteuil.<br></p><p>&nbsp;<br></p><p>&nbsp;<code></code></p>",
+	"the-sport-title": "The sport",
+	"the-sport": "Introduction to Powerchair Football.",
+	"we-are-title": "Who are we ?",
+	"we-are": "<p>Au départ, nous sommes deux, l’un père d’un joueur, l’autre passionné depuis plus de 10 ans, qui avons eu cette idée un peu folle : construire notre propre fauteuil.<br>L’équipe s’est agrandie et aujourd’hui des partenaires ont rejoint l’aventure :<br>- Le lycée technique La Joliverie (Créateur du fameux « Microjoules »).<br>- L’entreprise Mecam 44 (Conception et réalisation de pièces métalliques).<br>- L’entreprise SG2C (Bureau d'études).<br>- L’entreprise de soudure Stia.<br>- L’entreprise IDL lighting (Spécialiste de l’électrotechnique).<br>- Stélia Aérospace (Spécialiste de pièce élémentaire dans l’aéronautique).</p>",
 	"support-title": "They trust us",
-	"support": "partners"
+	"support": [
+		{
+			"name": "Fondation MMA",
+			"logo": "https://cdn.rawgit.com/GrouchyStacker/pf-spirit/996e70c41ff706b5ed784f5bf8c3a4bd9ff439bc/images/Logo-Fondation-MMA1.jpg",
+			"url": "https://www.mma.fr/a-propos/fondation-mma.html"
+		}
+	],
+	"social-networks": "Join us !",
+	"twitter": [
+		"TODO",
+		"TODO",
+		"DO"
+	],
+	"facebook": [
+		"TODO",
+		"TODO",
+		"DO"
+	],
+	"wiki-link-txt": "Wiki",
+	"wiki-link": "url",
+	"our_project_title": "Notre projet",
+	"the_sport_title": "The sport",
+	"we_are_title": "Qui sommes nous?",
+	"support_title": [
+		"Nos partenaires",
+		"partners",
+		"ey trust us"
+	]
 }
